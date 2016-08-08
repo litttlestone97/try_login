@@ -115,7 +115,7 @@ def create_cookies():
         _save_captcha(url)
         print('please check code.gif for captcha')
         captcha = input('captcha: ')
-        code, msg = login('1282678997@qq.com', '0180625771', captcha)
+        code, msg = login(email, password, captcha)
         #登录密码
 
         if code == 0:
