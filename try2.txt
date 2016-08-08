@@ -1,27 +1,7 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <title>ç¥ä¹</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="//static.zhihu.com/static/css/desktop/errors.css" />
-    <link rel="shortcut icon" href="//static.zhihu.com/static/img/favicon.ico" />
-  </head>
-  <body>
-    <div class="page">
-      <div class="error error-wide">
-        <div class="header">
-          <a href="/" id="page_logo" class="fl">
-            <img src="//static.zhihu.com/static/img/logo_black_trans.png" srcset="//static.zhihu.com/static/img/logo_black_trans@2x.png 2x" alt="ç¥ä¹">
-          </a>
-          <strong class="mute">ä¸ä¸ªçå®çé®ç­ç¤¾åº</strong>
-        </div>
-        <div class="content">
-          <p class="single">æå¡å¨æäºä¸ä¸ªé®é¢ï¼æä»¬æ­£å¨ç´§å¼ å°æ°åç­æ¡...</p>
-        </div>
-      </div>
-    </div>
-    <script src="//static.zhihu.com/static/js/desktop/500.js"></script>
-  </body>
-</html>
+<html>
+<head><title>405 Not Allowed</title></head>
+<body bgcolor="white">
+<center><h1>405 Not Allowed</h1></center>
+<hr><center>nginx/1.8.0</center>
+</body>
+</html>
